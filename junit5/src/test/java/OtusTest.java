@@ -46,7 +46,7 @@ public class OtusTest {
     @Test
     public void testLogin(){
     LoginPage loginPage = new LoginPage(driver);
-    loginPage.login("marzhanter@gmail.com", "test1212");
+    loginPage.login("email", "password");
 
 }
 
