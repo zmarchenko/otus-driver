@@ -1,0 +1,620 @@
+2020-04-16 01:23:46,794 INFO OtusTest [main] Driver is set up
+2020-04-16 01:23:50,068 INFO OtusTest [main] page is opened
+2020-04-16 17:01:42,084 INFO OtusTest [main] Driver is set up
+2020-04-16 17:01:46,490 INFO OtusTest [main] Page is opened
+2020-04-16 17:08:42,033 INFO OtusTest [main] Driver is set up
+2020-04-16 17:08:44,899 INFO OtusTest [main] Page is opened
+2020-04-29 01:54:02,470 INFO OtusTest [main] Driver is set up
+2020-04-29 01:54:06,176 INFO OtusTest [main] Page is opened
+2020-05-08 12:33:32,886 INFO OtusTest [main] Driver is set up
+2020-05-08 12:33:38,116 INFO OtusTest [main] Page is opened
+2020-05-08 12:40:45,167 INFO OtusTest [main] Driver is set up
+2020-05-08 12:40:46,075 INFO OtusTest [main] Page is opened
+2020-05-08 12:42:05,238 INFO OtusTest [main] Driver is set up
+2020-05-08 12:42:06,190 INFO OtusTest [main] Page is opened
+2020-05-08 12:58:13,124 INFO OtusTest [main] Driver is set up
+2020-05-08 12:59:09,844 INFO OtusTest [main] Page is opened
+2020-05-08 13:15:57,176 INFO OtusTest [main] Driver is set up
+2020-05-08 13:16:08,971 INFO OtusTest [main] Page is opened
+2020-05-08 13:17:08,194 INFO OtusTest [main] Filter page is opened
+2020-05-08 13:40:33,110 INFO OtusTest [main] Driver is set up
+2020-05-08 13:40:45,543 INFO OtusTest [main] Page is opened
+2020-05-08 13:58:45,174 INFO OtusTest [main] Driver is set up
+2020-05-08 13:58:59,657 INFO OtusTest [main] Start page is opened
+2020-05-08 14:02:57,035 INFO OtusTest [main] Driver is set up
+2020-05-08 14:03:06,500 INFO OtusTest [main] Start page is opened
+2020-05-08 14:03:30,361 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:03:49,609 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:09:15,653 INFO OtusTest [main] Driver is set up
+2020-05-08 14:09:24,382 INFO OtusTest [main] Start page is opened
+2020-05-08 14:11:08,986 INFO OtusTest [main] Driver is set up
+2020-05-08 14:11:10,966 INFO OtusTest [main] Start page is opened
+2020-05-08 14:12:51,133 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:13:07,076 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:16:15,707 INFO OtusTest [main] Driver is set up
+2020-05-08 14:16:17,760 INFO OtusTest [main] Start page is opened
+2020-05-08 14:16:43,923 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:16:55,173 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:19:58,534 INFO OtusTest [main] Driver is set up
+2020-05-08 14:20:00,396 INFO OtusTest [main] Start page is opened
+2020-05-08 14:20:45,498 INFO OtusTest [main] Driver is set up
+2020-05-08 14:20:47,570 INFO OtusTest [main] Start page is opened
+2020-05-08 14:21:20,330 INFO OtusTest [main] Driver is set up
+2020-05-08 14:21:22,128 INFO OtusTest [main] Start page is opened
+2020-05-08 14:22:10,395 INFO OtusTest [main] Driver is set up
+2020-05-08 14:22:12,426 INFO OtusTest [main] Start page is opened
+2020-05-08 14:22:33,277 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:22:42,777 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:24:22,458 INFO OtusTest [main] Driver is set up
+2020-05-08 14:24:24,280 INFO OtusTest [main] Start page is opened
+2020-05-08 14:26:07,201 INFO OtusTest [main] Driver is set up
+2020-05-08 14:26:08,976 INFO OtusTest [main] Start page is opened
+2020-05-08 14:26:31,096 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:26:35,312 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:26:40,976 INFO OtusTest [main] Driver is set up
+2020-05-08 14:26:42,990 INFO OtusTest [main] Start page is opened
+2020-05-08 14:30:04,792 INFO OtusTest [main] Driver is set up
+2020-05-08 14:30:06,227 INFO OtusTest [main] Start page is opened
+2020-05-08 14:30:44,281 INFO OtusTest [main] Driver is set up
+2020-05-08 14:30:46,419 INFO OtusTest [main] Start page is opened
+2020-05-08 14:30:55,352 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:31:02,015 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:31:20,354 INFO OtusTest [main] Driver is set up
+2020-05-08 14:31:22,110 INFO OtusTest [main] Start page is opened
+2020-05-08 14:32:35,336 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:32:39,498 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:32:46,705 INFO OtusTest [main] Driver is set up
+2020-05-08 14:32:48,473 INFO OtusTest [main] Start page is opened
+2020-05-08 14:33:17,218 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:33:18,601 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:33:27,046 INFO OtusTest [main] Driver is set up
+2020-05-08 14:33:28,952 INFO OtusTest [main] Start page is opened
+2020-05-08 14:33:44,254 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:33:59,480 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:35:00,671 INFO OtusTest [main] Driver is set up
+2020-05-08 14:35:01,713 INFO OtusTest [main] Start page is opened
+2020-05-08 14:35:10,267 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:35:26,570 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:39:00,433 INFO OtusTest [main] Driver is set up
+2020-05-08 14:39:02,206 INFO OtusTest [main] Start page is opened
+2020-05-08 14:39:09,625 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:39:12,523 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:40:03,953 INFO OtusTest [main] Driver is set up
+2020-05-08 14:40:05,681 INFO OtusTest [main] Start page is opened
+2020-05-08 14:42:58,811 INFO OtusTest [main] Driver is set up
+2020-05-08 14:43:00,702 INFO OtusTest [main] Start page is opened
+2020-05-08 14:43:07,894 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:43:11,008 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:44:44,592 INFO OtusTest [main] Driver is set up
+2020-05-08 14:44:48,098 INFO OtusTest [main] Start page is opened
+2020-05-08 14:44:55,436 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:44:58,434 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:49:52,057 INFO OtusTest [main] Driver is set up
+2020-05-08 14:49:53,947 INFO OtusTest [main] Start page is opened
+2020-05-08 14:50:01,037 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 14:50:04,103 INFO OtusTest [main] Filter page is opened
+2020-05-08 14:56:20,785 INFO OtusTest [main] Driver is set up
+2020-05-08 14:56:22,502 INFO OtusTest [main] Start page is opened
+2020-05-08 14:56:25,509 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:03:45,967 INFO OtusTest [main] Driver is set up
+2020-05-08 15:03:48,002 INFO OtusTest [main] Start page is opened
+2020-05-08 15:03:51,341 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:03:56,610 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:07:04,779 INFO OtusTest [main] Driver is set up
+2020-05-08 15:07:07,196 INFO OtusTest [main] Start page is opened
+2020-05-08 15:07:14,453 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:07:17,708 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:30:38,507 INFO OtusTest [main] Driver is set up
+2020-05-08 15:30:40,798 INFO OtusTest [main] Start page is opened
+2020-05-08 15:30:48,923 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:30:52,134 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:31:55,621 INFO OtusTest [main] Driver is set up
+2020-05-08 15:31:57,698 INFO OtusTest [main] Start page is opened
+2020-05-08 15:32:05,643 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:32:08,826 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:32:43,079 INFO OtusTest [main] Driver is set up
+2020-05-08 15:32:44,983 INFO OtusTest [main] Start page is opened
+2020-05-08 15:32:48,109 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:32:54,502 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:36:39,423 INFO OtusTest [main] Driver is set up
+2020-05-08 15:36:41,538 INFO OtusTest [main] Start page is opened
+2020-05-08 15:36:49,417 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:36:52,709 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:42:23,461 INFO OtusTest [main] Driver is set up
+2020-05-08 15:42:25,347 INFO OtusTest [main] Start page is opened
+2020-05-08 15:42:33,073 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:42:36,262 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:45:10,672 INFO OtusTest [main] Driver is set up
+2020-05-08 15:45:12,740 INFO OtusTest [main] Start page is opened
+2020-05-08 15:45:20,817 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:45:24,017 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:45:25,025 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 15:53:21,391 INFO OtusTest [main] Driver is set up
+2020-05-08 15:53:23,807 INFO OtusTest [main] Start page is opened
+2020-05-08 15:53:31,240 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 15:53:34,718 INFO OtusTest [main] Filter page is opened
+2020-05-08 15:53:36,007 INFO OtusTest [main] Products Tab is opened 
+2020-05-08 17:47:21,860 INFO OtusTest [main] Driver is set up
+2020-05-08 17:47:23,741 INFO OtusTest [main] Start page is opened
+2020-05-08 17:47:30,845 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 17:47:33,879 INFO OtusTest [main] Filter page is opened
+2020-05-08 17:47:35,148 INFO OtusTest [main] Products Tab is opened 
+2020-05-08 17:55:22,046 INFO OtusTest [main] Driver is set up
+2020-05-08 17:55:23,995 INFO OtusTest [main] Start page is opened
+2020-05-08 17:55:31,632 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 17:55:34,433 INFO OtusTest [main] Filter page is opened
+2020-05-08 17:55:35,560 INFO OtusTest [main] Products Tab is opened 
+2020-05-08 18:00:19,061 INFO OtusTest [main] Driver is set up
+2020-05-08 18:00:21,293 INFO OtusTest [main] Start page is opened
+2020-05-08 18:00:28,345 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 18:00:31,664 INFO OtusTest [main] Filter page is opened
+2020-05-08 18:00:32,829 INFO OtusTest [main] Products Tab is opened 
+2020-05-08 18:29:23,584 INFO OtusTest [main] Driver is set up
+2020-05-08 18:29:25,384 INFO OtusTest [main] Start page is opened
+2020-05-08 18:29:32,609 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 18:29:35,879 INFO OtusTest [main] Filter page is opened
+2020-05-08 18:29:41,152 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 18:32:41,020 INFO OtusTest [main] Driver is set up
+2020-05-08 18:32:42,938 INFO OtusTest [main] Start page is opened
+2020-05-08 18:32:50,065 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 18:32:53,376 INFO OtusTest [main] Filter page is opened
+2020-05-08 18:32:54,263 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 18:32:59,780 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 18:48:05,259 INFO OtusTest [main] Driver is set up
+2020-05-08 18:48:07,221 INFO OtusTest [main] Start page is opened
+2020-05-08 18:48:14,048 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 18:48:17,097 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 18:48:17,945 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 18:48:19,553 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 18:48:22,054 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 18:48:22,687 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 18:53:17,762 INFO OtusTest [main] Driver is set up
+2020-05-08 18:53:19,674 INFO OtusTest [main] Start page is opened
+2020-05-08 18:53:26,697 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 18:53:29,796 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 18:53:30,648 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 18:53:32,178 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 18:53:35,463 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 18:53:36,065 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:15:05,719 INFO OtusTest [main] Driver is set up
+2020-05-08 19:18:15,977 INFO OtusTest [main] Driver is set up
+2020-05-08 19:18:17,986 INFO OtusTest [main] Start page is opened
+2020-05-08 19:18:24,973 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:18:28,067 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:18:28,828 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:18:30,394 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:18:33,217 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:18:33,887 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:19:44,160 INFO OtusTest [main] Driver is set up
+2020-05-08 19:19:46,144 INFO OtusTest [main] Start page is opened
+2020-05-08 19:19:52,894 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:19:55,995 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:19:56,863 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:19:58,503 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:20:01,260 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:20:01,843 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:20:32,423 INFO OtusTest [main] Driver is set up
+2020-05-08 19:20:34,982 INFO OtusTest [main] Start page is opened
+2020-05-08 19:20:41,848 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:20:45,010 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:20:45,755 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:20:47,331 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:20:49,895 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:20:50,618 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:39:37,442 INFO OtusTest [main] Driver is set up
+2020-05-08 19:39:39,806 INFO OtusTest [main] Start page is opened
+2020-05-08 19:39:47,400 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:39:50,334 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:39:51,102 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:39:52,681 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:39:55,373 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:39:56,004 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:40:44,841 INFO OtusTest [main] Driver is set up
+2020-05-08 19:40:47,222 INFO OtusTest [main] Start page is opened
+2020-05-08 19:40:54,908 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:40:57,909 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:40:58,761 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:41:00,386 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:41:03,190 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:41:03,774 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:41:56,241 INFO OtusTest [main] First item is added
+2020-05-08 19:41:56,486 INFO OtusTest [main] Second item is added
+2020-05-08 19:41:58,636 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 19:44:41,006 INFO OtusTest [main] Driver is set up
+2020-05-08 19:44:43,643 INFO OtusTest [main] Start page is opened
+2020-05-08 19:44:52,418 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:44:55,607 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:44:56,398 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:44:57,968 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:45:00,833 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:45:01,339 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:45:51,589 INFO OtusTest [main] Driver is set up
+2020-05-08 19:45:53,742 INFO OtusTest [main] Start page is opened
+2020-05-08 19:46:00,090 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:46:03,154 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:46:03,954 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:46:05,545 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:46:08,085 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:46:08,674 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:47:26,532 INFO OtusTest [main] Driver is set up
+2020-05-08 19:47:28,655 INFO OtusTest [main] Start page is opened
+2020-05-08 19:47:35,857 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:47:39,182 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:47:39,930 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:47:41,569 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:47:44,086 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:47:44,693 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:49:25,654 INFO OtusTest [main] Driver is set up
+2020-05-08 19:49:27,791 INFO OtusTest [main] Start page is opened
+2020-05-08 19:49:34,579 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:49:37,555 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:49:38,331 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:49:40,353 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:49:43,201 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:49:43,651 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:52:46,749 INFO OtusTest [main] Driver is set up
+2020-05-08 19:52:48,864 INFO OtusTest [main] Start page is opened
+2020-05-08 19:52:55,289 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:52:58,372 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:52:59,181 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:53:00,723 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:53:03,294 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:53:03,911 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:53:57,749 INFO OtusTest [main] Driver is set up
+2020-05-08 19:53:59,747 INFO OtusTest [main] Start page is opened
+2020-05-08 19:54:06,595 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:54:09,919 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:54:10,526 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:54:12,161 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:54:14,678 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:54:15,173 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 19:59:15,054 INFO OtusTest [main] Driver is set up
+2020-05-08 19:59:20,561 INFO OtusTest [main] Start page is opened
+2020-05-08 19:59:27,650 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 19:59:30,764 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 19:59:31,583 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 19:59:33,162 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 19:59:35,659 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 19:59:36,100 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:00:44,405 INFO OtusTest [main] Driver is set up
+2020-05-08 20:00:46,312 INFO OtusTest [main] Start page is opened
+2020-05-08 20:00:53,178 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:00:56,038 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:00:56,904 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:00:58,582 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:01:01,845 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:01:02,409 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:01:46,685 INFO OtusTest [main] First item is added
+2020-05-08 20:01:46,880 INFO OtusTest [main] Second item is added
+2020-05-08 20:01:48,562 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:07:02,491 INFO OtusTest [main] Driver is set up
+2020-05-08 20:07:04,308 INFO OtusTest [main] Start page is opened
+2020-05-08 20:07:11,200 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:07:14,255 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:07:15,026 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:07:16,592 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:07:19,328 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:07:20,045 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:10:15,876 INFO OtusTest [main] Driver is set up
+2020-05-08 20:10:17,777 INFO OtusTest [main] Start page is opened
+2020-05-08 20:10:24,490 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:10:27,487 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:10:28,434 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:10:30,037 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:10:32,805 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:10:33,391 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:10:35,659 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB, цвет: синий добавлен к сравнению
+2020-05-08 20:13:40,054 INFO OtusTest [main] Driver is set up
+2020-05-08 20:13:42,061 INFO OtusTest [main] Start page is opened
+2020-05-08 20:13:48,706 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:13:51,910 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:13:52,784 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:13:54,322 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:13:57,038 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:13:57,643 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:13:59,683 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 20:14:00,628 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 20:14:02,078 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:15:05,528 INFO OtusTest [main] Driver is set up
+2020-05-08 20:15:07,370 INFO OtusTest [main] Start page is opened
+2020-05-08 20:15:14,041 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:15:17,392 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:15:18,192 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:15:19,806 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:15:22,538 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:15:22,852 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:15:24,946 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB, цвет: синий добавлен к сравнению
+2020-05-08 20:15:25,886 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB, цвет: черный добавлен к сравнению
+2020-05-08 20:15:27,318 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:15:27,376 INFO OtusTest [main] 2
+2020-05-08 20:19:30,271 INFO OtusTest [main] Driver is set up
+2020-05-08 20:19:32,185 INFO OtusTest [main] Start page is opened
+2020-05-08 20:19:38,924 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:19:42,174 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:19:42,944 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:19:44,565 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:19:47,011 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:19:47,643 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:20:39,862 INFO OtusTest [main] Driver is set up
+2020-05-08 20:20:41,654 INFO OtusTest [main] Start page is opened
+2020-05-08 20:20:48,784 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:20:51,679 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:20:52,469 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:20:54,037 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:20:56,893 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:20:57,374 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:21:57,264 INFO OtusTest [main] Driver is set up
+2020-05-08 20:21:59,088 INFO OtusTest [main] Start page is opened
+2020-05-08 20:22:06,086 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:22:09,426 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:22:10,206 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:22:11,820 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:22:14,794 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:22:15,265 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:23:08,203 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 20:23:09,297 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 20:25:28,994 INFO OtusTest [main] Driver is set up
+2020-05-08 20:25:30,999 INFO OtusTest [main] Start page is opened
+2020-05-08 20:25:37,785 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:25:39,813 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:25:41,681 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:25:43,279 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:25:45,829 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:25:46,453 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:25:48,527 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB, цвет: синий добавлен к сравнению
+2020-05-08 20:25:49,455 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB, цвет: черный добавлен к сравнению
+2020-05-08 20:25:50,447 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:25:51,117 INFO OtusTest [main] The number of elements is 2
+2020-05-08 20:25:51,432 INFO OtusTest [main] 
+2020-05-08 20:25:51,566 INFO OtusTest [main] Differences opened
+2020-05-08 20:29:38,798 INFO OtusTest [main] Driver is set up
+2020-05-08 20:29:40,640 INFO OtusTest [main] Start page is opened
+2020-05-08 20:29:47,332 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:29:50,489 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:29:51,284 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:29:52,788 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:29:55,501 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:29:56,067 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:30:04,261 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 20:30:05,187 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 20:30:06,613 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:30:06,664 INFO OtusTest [main] The number of elements is 2
+2020-05-08 20:30:15,518 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 20:30:15,640 INFO OtusTest [main] Differences opened
+2020-05-08 20:33:21,488 INFO OtusTest [main] Driver is set up
+2020-05-08 20:33:23,263 INFO OtusTest [main] Start page is opened
+2020-05-08 20:33:30,155 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:33:33,006 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:33:33,832 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:33:35,453 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:33:37,966 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:33:38,553 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:33:40,565 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB, цвет: синий добавлен к сравнению
+2020-05-08 20:33:41,483 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB, цвет: черный добавлен к сравнению
+2020-05-08 20:33:42,936 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:33:43,037 INFO OtusTest [main] The number of elements is 2
+2020-05-08 20:33:43,911 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 20:33:44,019 INFO OtusTest [main] Differences opened
+2020-05-08 20:35:21,057 INFO OtusTest [main] Driver is set up
+2020-05-08 20:35:22,988 INFO OtusTest [main] Start page is opened
+2020-05-08 20:35:29,972 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:35:32,989 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:35:33,741 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:35:35,319 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:35:37,958 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:35:38,545 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:35:40,537 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 20:35:41,470 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 20:35:43,030 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:35:43,087 INFO OtusTest [main] The number of elements is 2
+2020-05-08 20:35:43,963 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 20:35:44,073 INFO OtusTest [main] Differences opened
+2020-05-08 20:42:55,260 INFO OtusTest [main] Driver is set up
+2020-05-08 20:42:57,112 INFO OtusTest [main] Start page is opened
+2020-05-08 20:43:03,729 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 20:43:06,875 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 20:43:07,673 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 20:43:09,262 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 20:43:11,773 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 20:43:12,378 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 20:43:14,265 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 20:43:15,190 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 20:43:16,562 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 20:43:16,655 INFO OtusTest [main] The number of elements is 2
+2020-05-08 20:43:17,523 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 21:04:59,307 INFO OtusTest [main] Driver is set up
+2020-05-08 21:05:01,393 INFO OtusTest [main] Start page is opened
+2020-05-08 21:05:08,264 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:05:11,313 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 21:05:12,131 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 21:05:13,672 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 21:05:16,190 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 21:05:16,795 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 21:05:19,361 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 21:05:20,286 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 21:05:21,987 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 21:05:22,046 INFO OtusTest [main] The number of elements is 2
+2020-05-08 21:05:22,884 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 21:05:23,017 INFO OtusTest [main] Differences opened
+2020-05-08 21:14:05,695 INFO OtusTest [main] Driver is set up
+2020-05-08 21:14:07,505 INFO OtusTest [main] Start page is opened
+2020-05-08 21:14:14,262 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:14:17,328 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 21:14:18,170 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 21:14:19,791 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 21:14:22,598 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 21:14:23,061 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 21:14:25,065 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 21:14:25,988 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 21:14:27,556 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 21:14:27,617 INFO OtusTest [main] The number of elements is 2
+2020-05-08 21:14:28,482 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 21:14:28,623 INFO OtusTest [main] Differences opened
+2020-05-08 21:17:52,541 INFO OtusTest [main] Driver is set up
+2020-05-08 21:17:54,349 INFO OtusTest [main] Start page is opened
+2020-05-08 21:17:57,731 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:18:03,152 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 21:18:03,903 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 21:18:05,489 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 21:18:08,129 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 21:18:08,705 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 21:18:10,747 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB, цвет: синий добавлен к сравнению
+2020-05-08 21:18:12,205 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB, цвет: черный добавлен к сравнению
+2020-05-08 21:18:13,590 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 21:18:13,700 INFO OtusTest [main] The number of elements is 2
+2020-05-08 21:18:14,573 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 21:23:05,025 INFO OtusTest [main] Driver is set up
+2020-05-08 21:23:06,769 INFO OtusTest [main] Start page is opened
+2020-05-08 21:23:14,856 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:23:25,047 INFO OtusTest [main] Driver is set up
+2020-05-08 21:23:26,945 INFO OtusTest [main] Start page is opened
+2020-05-08 21:23:34,058 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:23:37,139 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 21:23:37,899 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 21:23:39,498 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 21:23:42,804 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 21:23:43,412 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 21:23:45,500 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB, цвет: синий добавлен к сравнению
+2020-05-08 21:23:46,995 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB, цвет: черный добавлен к сравнению
+2020-05-08 21:23:47,965 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 21:23:48,599 INFO OtusTest [main] The number of elements is 2
+2020-05-08 21:23:49,458 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-05-08 21:23:49,604 INFO OtusTest [main] true
+2020-05-08 21:25:34,663 INFO OtusTest [main] Driver is set up
+2020-05-08 21:25:36,496 INFO OtusTest [main] Start page is opened
+2020-05-08 21:25:43,767 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:25:46,500 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 21:25:47,421 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 21:25:49,047 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 21:25:51,877 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 21:25:52,485 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 21:26:49,285 INFO OtusTest [main] Driver is set up
+2020-05-08 21:26:51,336 INFO OtusTest [main] Start page is opened
+2020-05-08 21:26:58,509 INFO OtusTest [main] Mobile catalog is opened
+2020-05-08 21:27:01,570 INFO OtusTest [main] Filter page is opened. FiltersPage Class used
+2020-05-08 21:27:02,405 INFO OtusTest [main] Filter Xiaomi is used
+2020-05-08 21:27:03,941 INFO OtusTest [main] Filter Redmi is used
+2020-05-08 21:27:06,461 INFO OtusTest [main] Results are filtered. The user is redirected to the Mobile catalog. MobileTab Class used
+2020-05-08 21:27:07,053 INFO OtusTest [main] Elements are sorted by price
+2020-05-08 21:27:09,070 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/8GB добавлен к сравнению
+2020-05-08 21:27:09,994 INFO OtusTest [main] Товар Смартфон Xiaomi Redmi Go 1/16GB добавлен к сравнению
+2020-05-08 21:27:11,467 INFO OtusTest [main] Compare page is opened. ComparePage Class used
+2020-05-08 21:27:11,526 INFO OtusTest [main] The number of elements is 2
+2020-05-08 21:27:12,367 INFO OtusTest [main] ОПЕРАЦИОННАЯ СИСТЕМА
+2020-06-20 02:18:17,866 INFO BaseHooks [main] Driver is set up
+2020-06-20 02:18:23,524 INFO BaseHooks [main] Open start pagehttps://otus.ru/
+2020-06-20 02:18:25,931 INFO AbstractPage [main] Try to login
+2020-06-20 02:18:29,085 INFO AbstractPage [main] Logged in
+2020-06-20 02:18:36,281 INFO AbstractPage [main] PrivateOffice is opened
+2020-06-20 02:18:36,289 INFO AbstractPage [main] etPersonalInfoForm
+2020-06-20 02:18:40,707 INFO AbstractPage [main] setPersonnal started
+2020-06-20 02:18:52,687 INFO BaseHooks [main] Cookies were deleted
+2020-06-20 02:18:56,005 INFO BaseHooks [main] Page refreshed
+2020-06-20 02:18:56,006 INFO AbstractPage [main] Get login page after refreshing
+2020-06-20 02:18:57,305 INFO AbstractPage [main] etPersonalInfoForm
+2020-06-20 02:19:02,798 INFO AbstractPage [main] getPersonal started
+2020-06-20 02:19:04,466 INFO AbstractPage [main] getPersonal started
+2020-06-20 02:19:04,517 INFO AbstractPage [main] getPersonal started
+2020-06-20 02:19:04,566 INFO AbstractPage [main] getPersonal started
+2020-06-20 02:19:04,603 INFO AbstractPage [main] getPersonal started
+2020-06-20 02:19:04,649 INFO AbstractPage [main] getPersonal started
+2020-06-20 02:24:29,451 INFO OtusTest [main] Driver is set up
+2020-06-20 02:24:35,351 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-06-20 02:24:38,416 INFO LoginPage [main] Try to login
+2020-06-20 02:24:41,504 INFO LoginPage [main] Logged in
+2020-06-20 02:24:49,165 INFO LoginPage [main] PrivateOffice is opened
+2020-06-20 02:24:49,170 INFO PrivateOffice [main] etPersonalInfoForm
+2020-06-20 02:24:53,101 INFO PrivateOffice [main] setPersonnal started
+2020-06-20 02:25:04,273 INFO OtusTest [main] Cookies were deleted
+2020-06-20 02:25:08,760 INFO OtusTest [main] Page refreshed
+2020-06-20 02:25:08,760 INFO LoginPage [main] Get login page after refreshing
+2020-06-20 02:25:10,126 INFO PrivateOffice [main] etPersonalInfoForm
+2020-06-20 02:25:17,342 INFO PrivateOffice [main] getPersonal started
+2020-06-20 02:25:17,459 INFO PrivateOffice [main] getPersonal started
+2020-06-20 02:25:17,501 INFO PrivateOffice [main] getPersonal started
+2020-06-20 02:25:17,538 INFO PrivateOffice [main] getPersonal started
+2020-06-20 02:25:17,605 INFO PrivateOffice [main] getPersonal started
+2020-06-20 02:25:17,644 INFO PrivateOffice [main] getPersonal started
+2020-06-29 01:22:42,605 INFO OtusTest [main] Driver is set up
+2020-06-29 01:22:48,607 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-06-30 01:32:59,818 INFO OtusTest [main] Driver is set up
+2020-06-30 01:32:59,866 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-06-30 23:47:52,334 INFO OtusTest [main] Driver is set up
+2020-06-30 23:47:55,037 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 00:08:45,343 INFO OtusTest [main] Driver is set up
+2020-07-01 00:08:45,347 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 00:30:10,746 INFO OtusTest [main] Driver is set up
+2020-07-01 00:30:12,826 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 00:38:39,977 INFO OtusTest [main] Driver is set up
+2020-07-01 00:38:39,980 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 00:57:47,063 INFO OtusTest [main] Driver is set up
+2020-07-01 00:57:47,065 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 01:06:42,709 INFO OtusTest [main] Driver is set up
+2020-07-01 01:06:42,712 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 01:10:23,632 INFO OtusTest [main] Driver is set up
+2020-07-01 01:10:23,635 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 02:50:51,902 INFO OtusTest [main] Driver is set up
+2020-07-01 02:50:51,904 INFO OtusTest [main] Open start pagehttps://otus.ru/
+2020-07-01 02:52:21,581 INFO LoginPage [main] Try to login
+2020-07-01 02:52:29,445 INFO LoginPage [main] Logged in
+2020-07-03 13:03:22,589 INFO OtusTest [main] Driver is set up
+2020-07-03 13:03:22,613 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:04:36,754 INFO OtusTest [main] Driver is set up
+2020-07-03 13:04:36,758 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:07:13,940 INFO OtusTest [main] Driver is set up
+2020-07-03 13:07:13,942 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:08:13,634 INFO OtusTest [main] Driver is set up
+2020-07-03 13:08:13,636 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:09:51,621 INFO OtusTest [main] Driver is set up
+2020-07-03 13:09:51,623 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:09:51,700 INFO LoginPage [main] Try to login
+2020-07-03 13:09:55,678 INFO LoginPage [main] Logged in
+2020-07-03 13:11:03,552 INFO OtusTest [main] Driver is set up
+2020-07-03 13:11:03,554 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:11:03,620 INFO LoginPage [main] Try to login
+2020-07-03 13:11:07,441 INFO LoginPage [main] Logged in
+2020-07-03 13:15:50,181 INFO OtusTest [main] Driver is set up
+2020-07-03 13:15:50,184 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-03 13:15:50,241 INFO LoginPage [main] Try to login
+2020-07-03 13:15:53,860 INFO LoginPage [main] Logged in
+2020-07-03 14:16:12,291 INFO LoginPage [main] Try to login
+2020-07-03 14:17:13,210 INFO LoginPage [main] Try to login
+2020-07-03 14:22:35,215 INFO LoginPage [main] Try to login
+2020-07-03 14:31:22,263 INFO LoginPage [main] Try to login
+2020-07-03 14:32:33,861 INFO LoginPage [main] Try to login
+2020-07-03 14:35:29,109 INFO LoginPage [main] Try to login
+2020-07-07 21:56:24,664 INFO p.LoginPage [main] Try to login
+2020-07-07 22:02:59,843 INFO OtusTest [main] Driver is set up
+2020-07-07 22:02:59,846 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:03:00,024 INFO p.LoginPage [main] Try to login
+2020-07-07 22:04:08,467 INFO p.LoginPage [main] Logged in
+2020-07-07 22:09:22,818 INFO OtusTest [main] Driver is set up
+2020-07-07 22:09:22,822 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:10:26,343 INFO OtusTest [main] Driver is set up
+2020-07-07 22:10:26,346 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:19:44,935 INFO OtusTest [main] Driver is set up
+2020-07-07 22:19:48,133 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:28:04,127 INFO OtusTest [main] Driver is set up
+2020-07-07 22:28:05,418 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:41:15,622 INFO p.LoginPage [main] Try to login
+2020-07-07 22:47:06,588 INFO OtusTest [main] Driver is set up
+2020-07-07 22:47:07,696 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:48:58,308 INFO p.LoginPage [main] Try to login
+2020-07-07 22:50:13,055 INFO OtusTest [main] Driver is set up
+2020-07-07 22:50:13,057 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 22:50:13,207 INFO p.LoginPage [main] Try to login
+2020-07-07 22:50:20,272 INFO p.LoginPage [main] Logged in
+2020-07-07 22:56:19,667 INFO OtusTest [main] Driver is set up
+2020-07-07 22:56:20,636 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 23:03:47,914 INFO p.LoginPage [main] Try to login
+2020-07-07 23:04:54,539 INFO OtusTest [main] Driver is set up
+2020-07-07 23:04:54,542 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 23:04:54,670 INFO p.LoginPage [main] Try to login
+2020-07-07 23:04:59,335 INFO p.LoginPage [main] Logged in
+2020-07-07 23:37:52,652 INFO OtusTest [main] Driver is set up
+2020-07-07 23:37:52,655 INFO OtusTest [main] Open start page https://otus.ru/
+2020-07-07 23:37:52,774 INFO p.LoginPage [main] Try to login
+2020-07-07 23:37:58,459 INFO p.LoginPage [main] Logged in
+2020-07-07 23:51:43,653 INFO p.LoginPage [main] Try to login
+2020-07-07 23:52:55,760 INFO p.LoginPage [main] Try to login
+2020-07-07 23:54:23,219 INFO p.LoginPage [main] Try to login
